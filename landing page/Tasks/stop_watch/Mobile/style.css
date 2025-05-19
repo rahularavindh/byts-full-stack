@@ -1,0 +1,24 @@
+#phone{
+    width:250px;
+    height:470px;
+    background:skyblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+.screen{
+    background: black;
+    border-radius:10px;
+    height:470px;
+    width:250px;
+    display: flex;
+    align-items: flex-end;
+}
+nav{
+    /* border:2px solid red; */
+    width:250px;
+    display: flex;
+    justify-content: space-around;
+}
+/* .notch{ */
+    /* back */
+/* } */
